@@ -41,8 +41,8 @@ public class SNSImplementation {
          {
              System.out.println("in sns");
             AWSCredentials credentials = new BasicAWSCredentials(
-                    "AKIAJQCDGWHGIGD7JCQA",
-                    "tr/fIxAZL6JsoSubbN4aqZ97ezGHZYuaZF9WkPkt");
+                    "",
+                    "");
             //awsssn credentials
             
             AmazonSNSClient snsClient = new AmazonSNSClient(credentials);		                           
