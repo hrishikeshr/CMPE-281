@@ -4,7 +4,7 @@
                                              http://www.sjsu.edu/
                                 Course: CMPE-281 Section 99 Cloud Technologies
                                        
-                                           Professor: sanjay Garje
+                                           Professor: Sanjay Garje
 
                                             ISA: Divyankitha Urs
                                                      
